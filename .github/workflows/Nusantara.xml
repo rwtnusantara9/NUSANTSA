@@ -1,0 +1,5 @@
+<?xml version='1.0' standalone='yes'?>
+<servers>
+<server name="1.Ruang Nasional" ca="0" continent_code="ID" country="No.1: HT INDONESIA" country_code="ID" ip="mumble103.GOTMUMBLE.COM" port="22935" region="RWTN NUSANTARA" url="http://mumble103.GOTMUMBLE.COM" token=""/>
+<server name="2.Ruang BERSAMA" ca="0" continent_code="ID" country="No.2: Zona MDR/NC" country_code="ID" ip="mumble-us.cleanvoice.com" port="34313" region="RWTN ADMMIN" url="http://mumble-us.cleanvoice.com" token="/>
+</servers>
